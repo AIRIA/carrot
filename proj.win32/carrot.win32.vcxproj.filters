@@ -23,6 +23,9 @@
     <ClInclude Include="..\Classes\GameMain.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\Classes\VisibleRect.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -32,6 +35,9 @@
       <Filter>source</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\GameMain.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\VisibleRect.cpp">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>
